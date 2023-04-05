@@ -7,7 +7,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
     </a>        &nbsp;&nbsp;- JS ECMA6<br>
 <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" target="_blank" rel="noreferrer">
-        <img src="https://cdn1.iconfinder.com/data/icons/storage-10/400/Network_Storage-512.png" alt="local storage" width="30" height="30"/>
+        <img src="https://cdn1.iconfinder.com/data/icons/storage-10/400/Network_Storage-512.png" alt="local storage" width="40" height="40"/>
     </a> - LocalStorage<br>
 <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="30" height="30"/>
