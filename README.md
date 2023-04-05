@@ -8,7 +8,7 @@
     </a>        &nbsp;&nbsp;- JS ECMA6<br>
 <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" target="_blank" rel="noreferrer">
         <img src="https://cdn1.iconfinder.com/data/icons/storage-10/400/Network_Storage-512.png" alt="local storage" width="50" height="50"/>
-    </a> - LocalStorage<br>
+    </a>        &nbsp;&nbsp;- LocalStorage<br>
 <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="35" height="35"/>
     </a>        &nbsp;&nbsp;- Bootstrap 5<br> 
