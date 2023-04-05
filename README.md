@@ -7,7 +7,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
     </a>        &nbsp;&nbsp;- JS ECMA6<br>
 <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" target="_blank" rel="noreferrer">
-        <img src="https://www.svgrepo.com/show/140748/database.svg" alt="local storage" width="50" height="50"/>
+        <img src="https://www.svgrepo.com/show/140748/database.svg" alt="local storage" width="40" height="40"/>
     </a>        &nbsp;&nbsp;- LocalStorage<br>
 <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="35" height="35"/>
