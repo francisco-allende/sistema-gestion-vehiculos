@@ -1,6 +1,6 @@
 ## Sistema de gestión vehícular
 
-<p>Un sistema de gestión vehicular es una herramienta muy útil para cualquier organización que tenga una flota de vehículos y quiera mejorar su eficiencia y rentabilidad.</p>
+<p>Proyecto destinado diseñado para ayudar a administrar y monitorear una flota de vehículo. Resulta ser una herramienta muy útil para cualquier empresa del rubro que quiera mejorar su eficiencia y rentabilidad.</p>
 
 ### Tecnologías aplicadas:
 
