@@ -7,10 +7,10 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
     </a>        &nbsp;&nbsp;- JS ECMA6<br>
 <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" target="_blank" rel="noreferrer">
-        <img src="https://cdn1.iconfinder.com/data/icons/storage-10/400/Network_Storage-512.png" alt="local storage" width="40" height="40"/>
+        <img src="https://cdn1.iconfinder.com/data/icons/storage-10/400/Network_Storage-512.png" alt="local storage" width="50" height="50"/>
     </a> - LocalStorage<br>
 <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="30" height="30"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="35" height="35"/>
     </a>        &nbsp;&nbsp;- Bootstrap 5<br> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
